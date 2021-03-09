@@ -1,0 +1,7 @@
+{
+    "name": "seriyyy95/php-tail",
+    "description": "Unix tail functionality in php package",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
