@@ -1,6 +1,6 @@
 <?php
 
-namespace Seriyyy95/PhpTail;
+namespace Seriyyy95\PhpTail;
 
 class Tail {
 
