@@ -4,5 +4,10 @@
     "type": "library",
     "license": "MIT",
     "require": {},
-    "version": "1.0.0" 
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Seriyyy95\\PhpTail\\": "src/"
+        }
+    }
 }
