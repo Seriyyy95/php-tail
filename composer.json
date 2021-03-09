@@ -3,5 +3,6 @@
     "description": "Unix tail functionality in php package",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "version": "1.0.0" 
 }
